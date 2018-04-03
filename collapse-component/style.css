@@ -1,0 +1,15 @@
+
+.item{
+    width :80%;
+    border : 1px solid rgba(0,0,0,.125);
+    margin : auto;
+}
+.item-title{
+    background: #F7F7F7;
+    border-bottom : 1px solid rgba(0,0,0,.125);
+    padding : 20px 30px;
+}
+.item-content{
+    padding : 20px 20px;
+    display: none;
+}
